@@ -1,11 +1,11 @@
 {
     "sections":{
-      "hero":{
-        "type":"hero"
+      "hw":{
+        "type":"hello-world"
       }
     },
     "order":[
-      "hero"
+      "hw"
       
     ]
   }
